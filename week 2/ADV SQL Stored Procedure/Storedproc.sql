@@ -2,7 +2,7 @@ create database Employee_managent_system
 CREATE TABLE Departments ( 
 DepartmentID INT PRIMARY KEY, 
 DepartmentName VARCHAR(100) 
-); 
+);
 CREATE TABLE Employees ( 
 EmployeeID INT PRIMARY KEY, 
 FirstName VARCHAR(50), 
