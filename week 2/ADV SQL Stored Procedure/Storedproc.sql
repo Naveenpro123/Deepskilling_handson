@@ -61,5 +61,5 @@ EXEC sp_InsertEmployee
     @FirstName = 'Ravi', 
     @LastName = 'Kumar', 
     @DepartmentID = 1, 
-    @Salary = 4800.00, 
+    @Salary = 4800.00,
     @JoinDate = '2022-12-01';
