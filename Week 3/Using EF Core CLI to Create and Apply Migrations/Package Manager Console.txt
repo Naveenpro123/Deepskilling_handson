@@ -1,0 +1,10 @@
+//Create Initial Migration
+Add-Migration InitialMigration
+or
+dotnet ef migrations add InitialCreate
+
+//Remove Migration
+Remove-Migration
+
+//update database
+update-database
