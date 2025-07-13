@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Deepak R",
+        "salary": 100000,
+        "permanent": true,
+        "department": {
+            "id": 1,
+            "name": "HR"
+        },
+        "skills": [
+            {
+                "id": 3,
+                "name": "Java"
+            }
+        ],
+        "dateOfBirth": "2004-07-13T04:18:41.049Z"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "salary": 60000,
+        "permanent": false,
+        "department": {
+            "id": 2,
+            "name": "HR"
+        },
+        "skills": [
+            {
+                "id": 2,
+                "name": "Python"
+            }
+        ],
+        "dateOfBirth": "1985-05-15T00:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Mohamed Gows",
+        "salary": 50000,
+        "permanent": true,
+        "department": {
+            "id": 1,
+            "name": "IT"
+        },
+        "skills": [
+            {
+                "id": 1,
+                "name": "C#"
+            }
+        ],
+        "dateOfBirth": "1990-05-12T00:00:00"
+    }
+]
