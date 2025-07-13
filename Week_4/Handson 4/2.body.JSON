@@ -1,0 +1,18 @@
+//updating in body.
+{
+  "id": 1,
+  "name": "Deepak R",
+  "salary": 100000,
+  "permanent": true,
+  "department": {
+    "id": 1,
+    "name": "HR"
+  },
+  "skills": [
+    {
+      "id": 3,
+      "name": "Java"
+    }
+  ],
+  "dateOfBirth": "2004-07-13T04:18:41.049Z"
+}
