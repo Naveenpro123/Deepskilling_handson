@@ -1,0 +1,9 @@
+C: node -v  //checking version of react
+C:> npm install create-react-app //install create react application
+
+C:>npx create-react-app-myfirstreact //to create application
+
+C:>cd myfirstreact //selecting the directory 
+
+C:npm start to execute the application
+  
