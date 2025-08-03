@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: stretch; /* makes them all same height */
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.st2, .mystyle1, .v1 {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Only add border to .st2 and .mystyle1 */
+.st2 {
+    border-right: 3px solid green;
+}
+
+.mystyle1 {
+    border-right: 3px solid green;
+}
