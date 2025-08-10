@@ -1,0 +1,5 @@
+1.Sync with Remote Master Before Push:
+$ git pull --rebase origin master
+
+2.Push to GitHub:
+$ git push origin master
